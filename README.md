@@ -78,9 +78,6 @@ Classifies emails as spam, phishing, or safe using NLP and machine learning, wit
 ## Education and Certifications
 
 - **B.Tech, Information Technology** — Vel Tech HighTech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai · 2023–Present · CGPA: 7.34
-- **Programming in Java (Elite)** — NPTEL / IIT · 2026
-- **Testing Tools: Selenium with Java & Python, API Testing** — ExcelR · 2026
-- **Prompt Engineering and ChatGPT** — ExcelR · 2026
 
 ## Connect With Me
 
