@@ -85,7 +85,7 @@ Classifies emails as spam, phishing, or safe using NLP and machine learning, wit
 
 <a href="https://www.linkedin.com/in/brohith2911">LinkedIn</a> ·
 <a href="mailto:brohith2911@gmail.com">Email</a> ·
-<a href="rohith-portfolio-1512.netlify.app">Portfolio</a>
+<a href="https://rohith-portfolio-1512.netlify.app" target="_blank">Portfolio</a>
 
 <br/><br/>
 
